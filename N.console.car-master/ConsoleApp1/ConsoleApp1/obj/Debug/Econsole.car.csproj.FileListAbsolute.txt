@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\amsbdjasd\N.console.car-master\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\User\Desktop\amsbdjasd\N.console.car-master\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\User\Desktop\amsbdjasd\N.console.car-master\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\User\Desktop\amsbdjasd\N.console.car-master\ConsoleApp1\ConsoleApp1\obj\Debug\Econsole.car.csprojAssemblyReference.cache
+C:\Users\User\Desktop\amsbdjasd\N.console.car-master\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\User\Desktop\amsbdjasd\N.console.car-master\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\User\Desktop\N.console.car-master\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\User\Desktop\N.console.car-master\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\User\Desktop\N.console.car-master\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\User\Desktop\N.console.car-master\ConsoleApp1\ConsoleApp1\obj\Debug\Econsole.car.csprojAssemblyReference.cache
+C:\Users\User\Desktop\N.console.car-master\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\User\Desktop\N.console.car-master\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
